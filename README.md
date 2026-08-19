@@ -9,11 +9,12 @@
 * **База данных (DWH):** Внутри PostgreSQL создал изолированные схемы (банк и кинотеатр). Написал SQL-скрипты (лежат в `sql_sandbox`), которые собирают сырые логи в готовые витрины данных с помощью JOIN, GROUP BY и оконных функций (например, расчет балансов, топ-магазинов и популярных жанров).
 * **Визуализация (BI):** Подключил эти витрины к Apache Superset и собрал два интерактивных дашборда с фильтрами для анализа бизнес-метрик.
 ### Галерея интерактивных дашбордов (Apache Superset)
-![Дашборд 1](Image Superset1.JPG)
-![Дашборд 2](Image%20Superset%202.png)
-![Дашборд 3](Image%20Superset%203.png)
-![Дашборд 4](Image%20Superset%204.png)
-![Дашборд 5](Image%20Superset%205.png)
+<img src="Image Superset 1.png" width="100%">
+<img src="Image Superset 2.png" width="100%">
+<img src="Image Superset 3.png" width="100%">
+<img src="Image Superset 4.png" width="100%">
+<img src="Image Superset 5.png" width="100%">
+
 ##  2. Исследовательские ноутбуки (.ipynb файлы)
 Мои работы на стыке Data Science и анализа временных рядов:
 * `LSTM_prediction.ipynb` — пример прогнозирования сигналов высокочастотных инженерных данных с помощью рекуррентной нейросети.
