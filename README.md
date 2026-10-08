@@ -41,7 +41,7 @@
 * `LSTM_prediction.ipynb` — пример прогнозирования сигналов высокочастотных инженерных данных с помощью рекуррентной нейросети.
 * `python+sql.ipynb` — препрепроцессинг, очистка данных с помощью Pandas и работа с базой через Python.
 * `PySpark_benchmarking.ipynb` — стресс-тестирование распределенного движка Apache Spark (PySpark) на датасетах от 10 000 000+ строк и баттл производительности против Pandas.
-* `Amazon_Sentiment_Analysis.ipynb` — классический пример NLP анализа тональности неструктурированных текстовых данных (отзывов) с помощью CountVectorizer и модели LogisticRegression (точность Accuracy: 81%). Подход применим для анализа фишинга.
+* `scikit_learn.ipynb` — классический пример NLP анализа тональности неструктурированных текстовых данных (отзывов) с помощью CountVectorizer и модели LogisticRegression (точность Accuracy: 81%). Подход применим для анализа фишинга.
 
 ## Технологический стек платформы
 ClickHouse, PostgreSQL, Apache Spark (PySpark), Apache Airflow, Docker, Apache Superset, SQL (оконные функции, CTE), Python (Pandas, Scikit-learn, PyArrow), DBeaver.
