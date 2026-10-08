@@ -49,3 +49,4 @@ ClickHouse, PostgreSQL, Apache Spark (PySpark), Apache Airflow, Docker, Apache S
 ---
 **Связь со мной:**
 * Telegram: @kkkmorozov
+* Почта: kkkmorozov@yandex.com
